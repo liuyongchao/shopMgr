@@ -1,0 +1,15 @@
+.text-black{ color:#000;}
+.text-danger{ color:#ea413c;}
+.x-titlebar{ background-color:#ea413c; font-size:16px;}
+.panel-heading{ border-color:#efefef;}
+.img3{ width:50px; height:50px;}
+.x-nopadding{padding-left:0; padding-right:0;}
+.input-group i{ font-size:14px;}
+.input-group .input-group-addon{ background-color:#fff; border:0; border-radius:0;padding:8px 8px;}
+.input-group .form-control{ border:0; border-radius:0; color:#999;}
+.input-group .form-control:focus{ box-shadow:none; border-color:#efefef;}
+.smartContainer{margin:100% 0%}
+.btn_login{border-radius: 4px;padding:12px 12px;}
+/* .row-line{border-bottom: 2px solid #ECEDEF; border-left:2px solid #ECEDEF;border-right: 2px solid #ECEDEF;} */
+.x-row{padding:0px;margin:0px;}
+.x-col{padding:0px;margin:0px;}
